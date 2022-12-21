@@ -1,0 +1,6 @@
+{
+    "/routes": "/routes",
+    "/test/posts": "/test-posts",
+    "/users": "/users",
+    "/users/:id": "/users?id=:id"
+}
