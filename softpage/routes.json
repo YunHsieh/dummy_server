@@ -1,0 +1,5 @@
+{
+    "/api/essays/": "/api-essays",
+    "/api/essays/:id": "/api-essays/:id",
+    "/api/essays/:id/contents": "/api-essays-contents"
+}
