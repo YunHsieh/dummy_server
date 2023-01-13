@@ -23,9 +23,31 @@
     },
     {
         "id": "8b3863fc-dde6-48f7-a8f7-17060c2b3d10",
-        "title": "test2",
+        "title": "In many cities around the world pollution levels have risen in recent years. Why are some cities becoming more polluted? What effects does this have?",
         "version": "1.0.1",
-        "content": "Hi, I'm Andy. This is my car \n This is an apple.",
+        "content": "Pollution levels have increased in many cities worldwide nowadays. This essay will discuss how pollution is caused by car congestion and too much rubbish, and that leads to the pollution of the air and the environment.\n \nFirstly, one cause of the pollution is the large number of cars that result in heavy traffic, which is due to the lack of public transport in the city. In other words, governments didn’t develop transportation that can accommodate a huge number of passengers, such as buses or trains. This situation is giving rise to more and more citizens purchasing their own cars. Secondly, gradually serious pollution is also owing to a huge amount of rubbish produced by humans living in the cities. There is an inevitable rise in the global population, which means households and industries accumulate more and more waste in modern society.\n \nUrban pollution can have two negative effects. One impact is poor air quality because of carbon emissions from vehicles. For example, lung cancer rates have risen significantly since 1998 in Taiwan, which indicates air pollution has a serious impact on people's health. The other drawback is environmental contamination due to non-recycled trash being left in nature. As a result, rivers are polluted by industrial waste and oceans are filled with plastic, which ultimately is eaten by marine animals.\n \nIn conclusion, the major urban pollution caused by the excessive number of private cars on city roads and large amounts of rubbish results in severe air pollution and irreversible environmental damage, which is an urgent problem that the government should address as soon as possible.\n",
+        "is_published": true,
+        "is_deleted": false,
+        "order_seq": [
+            "b7914981-ae1f-4e57-bcb0-3b3d0a8024a6",
+            "2ce6cf48-4609-46bc-abca-7ab6265c333f",
+            "9419e2ee-2c65-42c8-b096-564a770f98e2"
+        ],
+        "tags": [],
+        "forker": null,
+        "author": {
+            "id": 1,
+            "email": "test@example.com",
+            "username": "test@example.com"
+        },
+        "created_at": "2022-12-22T00:39:06.919972+00:00",
+        "updated_at": "2022-12-22T00:39:06.920019+00:00"
+    },
+    {
+        "id": "8b3863fc-dde6-48f7-a8f7-17060c2b3d11",
+        "title": "Some people believe more actions can be done to prevent crime, while others think that little can be done. Discuss both sides and give your own opinion.",
+        "version": "1.0.1",
+        "content": "Many argue that crime can be prevented by taking more actions. Others believe it is hard to achieve. Still, there are some crimes that are almost impossible to eliminate. I believe that governments can take action in advance to prevent certain crimes through education and subsidies.\n \nOn the one hand, many think crimes may happen because of social issues or lack of knowledge. For example, burglary or fraud are prevalent, probably due to criminals’ urgent financial problems, whereas some teenagers try drugs out of curiosity because they do not understand how dangerous drugs are. Governments can address this kind of crime by providing subsidies such as unemployment benefits for citizens, giving them other opportunities to deal with poverty rather than do something illegal. Another solution is that authorities can disseminate about the danger of drugs in order to educate adults and children to keep them away from crime. Basically, there are several methods to prevent humans from doing illegal things.\n \nOn the other hand, committing violent crimes, such as murder or terrorism, is difficult to hold back. In other words, criminals usually have strong intentions to hurt people because of politics, religion, or extremely detest someone. For instance, terrorist can kill numerous innocent people without hesitation, and even the police cannot prevent such tragedies from happening in advance. Under these circumstances, some crimes which occur from human nature are nearly impossible to predict or take further actions to impede.\n \nIn conclusion, people commit crimes because of different intentions. Although it is impossible to eradicate crime completely, we can still take actions ahead of time to prevent part of the crime by educating people and subsidizing citizens.",
         "is_published": true,
         "is_deleted": false,
         "order_seq": [
