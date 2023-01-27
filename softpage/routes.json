@@ -1,5 +1,7 @@
 {
-    "/api/essays/": "/api-essays",
+    "/api/essays": "/api-essays",
+    "/api/essays\\?title=:title": "/api-essays?title=:title",
     "/api/essays/:id": "/api-essays/:id",
-    "/api/essays/:id/contents": "/api-essays-contents"
+    "/api/essays/:id/contents": "/api-essays-contents",
+    "/api/essays/:id/progresses": "/api-essays-progresses?id=:id"
 }

@@ -1,0 +1,24 @@
+[
+    {
+    "id": "8b3863fc-dde6-48f7-a8f7-17060c2b3d10",
+    "title": "In many cities around the world pollution levels have risen in recent years. Why are some cities becoming more polluted? What effects does this have?",
+    "version": "1.0.1",
+    "content": "Urban pollution has become a pressing issue in many cities worldwide. This essay aims to explore the causes of pollution, specifically the impact of car congestion and excessive waste production, and the resulting effects on air quality and the environment.\n\nOne of the main causes of pollution is the high number of cars on the roads, which is a direct result of inadequate public transportation in cities. The lack of efficient public transportation options, such as buses and trains, leads to an increase in private car ownership and resultant traffic congestion. Additionally, the growing population has resulted in an increase in waste production, which contributes to pollution.\n\nThe negative impacts of urban pollution are twofold. Firstly, poor air quality caused by vehicle emissions can have severe health consequences, with studies linking it to an increase in lung cancer rates. Secondly, environmental contamination caused by non-recycled waste can lead to pollution of rivers and oceans, impacting marine life.\n\nIn conclusion, the excessive number of private cars on city roads and the large amounts of waste produced by urban populations are major causes of urban pollution, resulting in poor air quality and irreversible environmental damage. It is imperative that governments take immediate action to address this pressing issue.",
+    "is_published": true,
+    "is_deleted": false,
+    "order_seq": [
+        "b7914981-ae1f-4e57-bcb0-3b3d0a8024a6",
+        "2ce6cf48-4609-46bc-abca-7ab6265c333f",
+        "9419e2ee-2c65-42c8-b096-564a770f98e2"
+    ],
+    "tags": [],
+    "forker": null,
+    "author": {
+        "id": 1,
+        "email": "teacher@example.com",
+        "username": "Keylee"
+    },
+    "created_at": "2022-12-22T00:39:06.919972+00:00",
+    "updated_at": "2022-12-22T00:39:06.920019+00:00"
+    }
+]
